@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pothole</folder>
+	<filename>15.jpg</filename>
+	<path>/Users/lakshyabalchandani/Desktop/Tensorflow Object Detection/TFODCourse/Tensorflow/workspace/images/collectedimages/Pothole/15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>100</ymin>
+			<xmax>576</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
